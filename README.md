@@ -1,2 +1,2 @@
-# restaurant_website
-Dynamic restaurant website using webpack. 
+# Restaurant Website
+Dynamic restaurant website using webpack,html, css, and javascript. 
