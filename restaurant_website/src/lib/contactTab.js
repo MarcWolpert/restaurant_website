@@ -47,7 +47,7 @@ const appendContact=(content)=>{
     const contactCardLi1=document.createElement("li");
     contactCardLi1.textContent="General Inquiries: (212)-555-1930";
     const contactCardLi2=document.createElement("li");
-    contactCardLi2.textContent="Email: contat@velvetember.com";
+    contactCardLi2.textContent="Email: contact@velvetember.com";
     contactCardUl.appendChild(contactCardLi1);
     contactCardUl.appendChild(contactCardLi2);
     contactCard.appendChild(contactCardh2);
